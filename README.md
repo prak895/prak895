@@ -1,1 +1,1 @@
-Hello, Folks! ![wave](https://github.com/[prak895]/[prak895]/blob/[branch]/wave.gif?raw=true)
+Hello, Folks! ![wave](https://raw.githubusercontent.com/prak895/prak895/main/wave.gif)
