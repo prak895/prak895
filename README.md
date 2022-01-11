@@ -2,7 +2,7 @@
 <h1 align="center"> <img src = "https://raw.githubusercontent.com/prak895/prak895/main/world.gif" width = 30px> Hello, Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <h2>🙋‍♂️ About Me</h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/prak895/prak895/main/developer.gif" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/prak895/prak895/main/hero.gif" />
 
 - 🔭 Well, I am **PRAKHAR KUMAR** Meticulous and Motivated undergraduate student pursuing my **B.Tech** in **Computer Science Engineering** from **SRM Institute Of Science & Technology Delhi NCR Campus**.  
 - ⚡ I have a keen interest in **Front-End Development** & **Problem-Solving**.
