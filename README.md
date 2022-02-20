@@ -26,8 +26,10 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/cute-clipart/64/000000/canva.png"/>
-<img width="50px" height"50px" src="https://raw.githubusercontent.com/prak895/prak895/main/latex%20language.png"/>
+<img width="50px" height="50px" src="https://raw.githubusercontent.com/prak895/prak895/main/latex%20language.png"/>
  </p>
  
 <h2>📊 My Github Stats</h2>
